@@ -227,8 +227,7 @@ CREATE TABLE notes (
 ---
 
 ## 👤 Author
-
-Built with ❤️ for Round 2 Full-Stack Assignment  
+  
 **Stack**: React · Node.js · Express · SQLite · JWT
 
 ---
